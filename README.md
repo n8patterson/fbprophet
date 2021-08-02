@@ -16,9 +16,9 @@ This project leverages python 3.7.9 with the following packages:
 
 * [hvplot.pandas](https://hvplot.holoviz.org/user_guide/Introduction.html) - For the visualization of MercadoLibre google trends and revenue.
 
-* [sklearn] (https://scikit-learn.org/stable/) - For machine learning on MercadoLibre google trends and revenue.
+* [sklearn](https://scikit-learn.org/stable/) - For machine learning on MercadoLibre google trends and revenue.
 
-* [fbprophet] (https://facebook.github.io/prophet/docs/quick_start.html) - For time-series analysis on MercadoLibre google trends and revenue.
+* [fbprophet](https://facebook.github.io/prophet/docs/quick_start.html) - For time-series analysis on MercadoLibre google trends and revenue.
 
 On the terminal, under the conda dev environment, install the following:
 
